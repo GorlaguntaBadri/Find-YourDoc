@@ -1,0 +1,6 @@
+id,name,specialties,experience,fees,consultationType
+1,Dr. Asha Menon,"Cardiology, General Medicine",15,600,Video Consult
+2,Dr. Rahul Kapoor,Dermatology,8,400,In Clinic
+3,Dr. Priya Nair,"Neurology, Pediatrics",12,750,Video Consult
+4,Dr. Suresh Iyer,Orthopedics,20,500,In Clinic
+5,Dr. Leela Thomas,Gynecology,10,550,Video Consult
